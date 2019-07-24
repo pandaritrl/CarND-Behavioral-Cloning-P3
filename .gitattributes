@@ -1,4 +1,4 @@
-*.h5 binary
+*.h5 filter=lfs diff=lfs merge=lfs -text
 *.mp4 binary
 *.png binary
 *.jpg binary
